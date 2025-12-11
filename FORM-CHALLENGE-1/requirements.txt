@@ -1,0 +1,12 @@
+CHALLENGE REQUIREMENTS:
+
+in html:
+
+- A header at the top of the form that says "Apartment Search"
+- Location (text input)
+- Monthly Price (range or number input)
+- Number of Bedrooms (number input)
+- Number of Bathrooms (number input)
+- Pets Allowed (checkbox)
+- Date Available (date input)
+- Submit Button
